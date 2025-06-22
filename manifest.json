@@ -1,0 +1,21 @@
+{
+  "name": "Monitor MQTT con IA",
+  "short_name": "MonitorMQTT",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#4f46e5",
+  "description": "Una aplicación para monitorizar dispositivos IoT con MQTT e IA.",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/4f46e5/ffffff?text=MQTT",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/4f46e5/ffffff?text=MQTT",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

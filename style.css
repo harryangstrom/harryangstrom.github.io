@@ -1,0 +1,19 @@
+/* Estilo base del cuerpo y fuente principal */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Transición suave para la aparición y desaparición de elementos */
+.fade-enter-active, .fade-leave-active {
+    transition: opacity 0.5s ease;
+}
+
+.fade-enter-from, .fade-leave-to {
+    opacity: 0;
+}
+
+/* Asegura que el contenido del modal respete los saltos de línea y no se desborde */
+.modal-content {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
